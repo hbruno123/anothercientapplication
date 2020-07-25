@@ -1,0 +1,12 @@
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Infraestructure.deps.json
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Infraestructure.dll
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Infraestructure.pdb
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.csprojAssemblyReference.cache
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.AssemblyInfoInputs.cache
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.AssemblyInfo.cs
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.csproj.CopyComplete
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.dll
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.pdb
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.csproj.CoreCompileInputs.cache

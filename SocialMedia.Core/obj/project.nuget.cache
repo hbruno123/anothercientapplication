@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0cQz/ahMbEGnB/U3YgSoDxe5hQbZMes77K67V1YeOn2ad3ag80Q2lIgVQjfeTaoVXyXOMGyFxr/XvF9HjrzPsw==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\Net Core\\ServicioClean\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

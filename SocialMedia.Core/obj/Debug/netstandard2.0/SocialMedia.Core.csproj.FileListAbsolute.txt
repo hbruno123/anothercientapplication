@@ -1,0 +1,9 @@
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.deps.json
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfoInputs.cache
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfo.cs
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\Cursos\Net Core\ServicioClean\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csprojAssemblyReference.cache
